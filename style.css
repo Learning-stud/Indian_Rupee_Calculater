@@ -37,7 +37,7 @@ label {
 }
 
 input {
- width: 40%;
+ width: 50%;
  margin-bottom: 5px;
  padding: 5px;
 }
@@ -47,3 +47,4 @@ input {
  margin-top: 20px;
  font-weight: bold;
 }
+
